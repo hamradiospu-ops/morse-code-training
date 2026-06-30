@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Morse Code Training",
+  "description": "แอปพลิเคชันฝึกฝนและเรียนรู้รหัสมอร์ส พัฒนาโดยชมรมวิทยุสมัครเล่นมหาวิทยาลัยศรีปทุม (Sripatum University Amateur Radio Club)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
